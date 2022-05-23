@@ -1,4 +1,4 @@
-#!/home/pds/github/Filmography/venv/bin/python3
+#!/home/pds/Github/Filmography/venv/bin/python3
 
 ##############################################################################
 #
